@@ -13,6 +13,10 @@ author:
   url:               https://github.com/SubbulakshmiRS
   email:             rssubbulakshmi16@gmail.com
 
+collections:
+  projects:
+    output: true
+
 # Gems
 plugins:
   - jekyll-paginate
