@@ -1,6 +1,14 @@
 ---
 layout: post
 title: What's Jekyll?
+date: 2020-04-01 21:31:05
+description: "Detalhes fazem a diferença, vamos falar sobre Favicons, Touch Icons e Tile Icons e como eles fazem a diferença."
+main-class: 'dev'
+color: '#637a91'
+tags:
+- "dicarapida"
+  twitter_text: "Favicons, touch icons e tile icons..."
+  introduction: "Qual a importância dos favicons, touch icons e tile icons. Como criá-los automáticamente e como usá-los em seu site."
 ---
 
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
